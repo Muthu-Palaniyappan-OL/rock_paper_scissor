@@ -1,8 +1,6 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br>
   Rock Paper Scissor
   <br>
 </h1>
@@ -25,13 +23,11 @@
 </p>
 
 <div>
-    <img src="assets/app.jpg" alt="Mobile App">
-    <img src="assets/ui.jpg" alt="Mobile UI">
-</div>
-<div>
-    <img src="assets/rock.jpg" alt="Mobile UI">
-    <img src="assets/paper.jpg" alt="Mobile UI">
-    <img src="assets/scissor.jpg" alt="Mobile UI">
+    <img src="assets/app.jpg" alt="Mobile App" style="width: 256px; height: auto; margin: 30px">
+    <img src="assets/ui.jpg" alt="Mobile UI" style="width: 256px; height: auto; margin: 30px">
+    <img src="assets/rock.jpg" alt="Mobile UI" style="width: 256px; height: auto; margin: 30px">
+    <img src="assets/paper.jpg" alt="Mobile UI" style="width: 256px; height: auto; margin: 30px">
+    <img src="assets/scissor.jpg" alt="Mobile UI" style="width: 256px; height: auto; margin: 30px">
 </div>
 
 ## Key Features
